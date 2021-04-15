@@ -20,10 +20,10 @@ Through much research the amount of funding and number of rounds of funding is n
 
 >***Hudson River Trading Core Values:***
 >_"More than just words, these values are a reflection of our culture, and the standard by which we measure our success as a company."_
-> _Automation and Efficiency_
->_Ethics_
->_Make it Better_
->_Collaboration_
+> _Automation and Efficiency_,
+>_Ethics_,
+>_Make it Better_,
+>_Collaboration_,
 >_Diversity, Equity, and Inclusion_
 
 
@@ -53,7 +53,10 @@ Due to the digital transformation the domain is going through, Delloitte suggest
 
 * **What are the other major companies in this domain?**
 Some other major players in the HFT (high frequency trading) space are Virtu Financial, Quantlab Financial and Jump Trading. 
-<img src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/r1ver1fffndbt34rdohw" width="200" height="200" /> <img src="https://media-exp1.licdn.com/dms/image/C560BAQFGwjHjLBjrNA/company-logo_200_200/0/1519865257931?e=2159024400&v=beta&t=X1RrvEjGgGjEA34hHFC1GUnJezAB2LVfpOeeAaY402k" width="200" height="200" /> <img src="https://logovtor.com/wp-content/uploads/2019/10/jump-trading-llc-logo-vector.png" width="400" height="200" /> 
+
+
+
+<img src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/r1ver1fffndbt34rdohw" width="200" height="200" /> <img src="https://media-exp1.licdn.com/dms/image/C560BAQFGwjHjLBjrNA/company-logo_200_200/0/1519865257931?e=2159024400&v=beta&t=X1RrvEjGgGjEA34hHFC1GUnJezAB2LVfpOeeAaY402k" width="200" height="200" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ01R2MNJrhk7axHNI-XzBHtvthWI9a-X4WbA&usqp=CAU" width="200" height="200" /> 
 
 
 ## Results:
@@ -70,7 +73,7 @@ Hudson River Trading is a leader in the domain. They recently, in 2018 bought a 
 ## Recommendations:
 
 * **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
-As far as offerings go Hudson River Trading is almost a one stop shop for institutional investors looking to get in on high frequency trading. As HFT trading is not econiomical for reatil traders they do not have any resources for retail traders. One offering they could make for their customers could be News based algo trading or Social Media based algo trading similar to the ETF $BUZZ. 
+As far as offerings go Hudson River Trading is almost a one-stop-shop for institutional investors looking to get in on high frequency trading. As HFT trading is not econiomical for retail traders they do not have any resources for retail traders. One offering they could make for their customers could be News based algo trading or Social Media based algo trading similar to the ETF $BUZZ. 
             <img src="https://ml.globenewswire.com/Resource/Download/7adbc895-09e4-4e3c-bc95-977c60c39e70?size=2" width="400" height="175" />
 
 * **Why do you think that offering this product or service would benefit the company?**
@@ -82,3 +85,13 @@ The new solution of News based or Social Media based trading algos would be all 
 * **Why are these technologies appropriate for your solution?**
 Creating the algorithm in house would be cost effective and already be something that the engineers look at every day. It would just be a slight shift in goals for that algo team. 
 <img src="https://www.usenix.org/sites/default/files/sponsor_images/hrt_name_600x240.png" width="700" height="175" />
+
+##Sources:
+- Crunchbase.com, Funding and financial information.
+- Hudson River Trading website, Founders and mission statement. 
+- Wall Street Journal, Aquisition and trading volume.
+- Deloitte, Digital transformation trends. 
+- Medium.com, List of other HFT firms. 
+- Growjo.com, Revenue estimate.
+- Reuters, Sun Trading purchase. 
+- Vaneck Etfs, Example for BUZZ etf.
